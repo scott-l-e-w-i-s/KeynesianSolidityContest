@@ -1,0 +1,6 @@
+@prb/test/=lib/prb-test/src/
+forge-std/=lib/forge-std/src/
+solmate/=lib/solmate/src/
+openzeppelin/=lib/openzeppelin-contracts/contracts/
+clones-with-immutable-args/=lib/clones-with-immutable-args/src/
+src/=src/
