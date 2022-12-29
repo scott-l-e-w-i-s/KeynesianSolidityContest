@@ -1,4 +1,4 @@
-# Canto Fixed Lending
+# ENTRY #6 - Canto Fixed Lending
 
 Canto Fixed Lending is a protocol for borrowing against [CSR](https://github.com/Canto-Improvement-Proposals/CIPs/blob/main/CIP-001.md) NFTs. Besides paying back the accrued debt directly (`Loan.repayWithExternal`), the revenue of the NFT can also be claimed and be used to pay back the debt (`Loan.repayWithClaimable`). The lender can use `Loan.withdrawPayable` to withdraw from the already paid back amount.
 
