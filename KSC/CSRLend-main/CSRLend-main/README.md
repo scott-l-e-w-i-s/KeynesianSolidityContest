@@ -1,4 +1,4 @@
-# CSRLend Protocol
+# ENTRY #2- CSRLend Protocol
 Protocol for borrowing and lending against Contract Secured Revenue NFTs on the Canto blockchain.
 
 ### Setup
