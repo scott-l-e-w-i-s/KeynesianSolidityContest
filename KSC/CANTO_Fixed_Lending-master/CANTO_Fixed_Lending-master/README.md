@@ -1,4 +1,4 @@
-# Canto Fixed Lending 
+# ENTRY #1 - Canto Fixed Lending 
  - CSR nft can be used as a collateral to get loan.
  - Requesting loan
     - CSR nft holder can request a loan for specific principalAmount and maxInterestRate
