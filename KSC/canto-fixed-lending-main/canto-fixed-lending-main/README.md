@@ -1,4 +1,4 @@
-# Canto Fixed Lending Protocol
+# ENTRY #4 - Canto Fixed Lending Protocol
 
 Canto Fixed Lending enables lending wrapped Canto tokens (WCANTO) using [CSR](https://github.com/Canto-Improvement-Proposals/CIPs/blob/main/CIP-001.md) NFTs as collateral and repayment.
 
